@@ -1,3 +1,7 @@
+# Overview
+
+This is a a clone of the Starbucks website built using React, Redux Toolkit, and React Router. Currently, I am working on building the navbar.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
